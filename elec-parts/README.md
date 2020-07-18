@@ -7,4 +7,8 @@
    - 6mm角タクトスイッチ（高さ12mm）
  - LED_2.54mmp_D5mm.f3d
    - 直径5mm、2.54mmピッチの砲弾型汎用LED
+ - pinSocket_2.54mmp_2x3.f3d
+   - 2x3列ピンソケット（2.54mmピッチ）
+
+
 
