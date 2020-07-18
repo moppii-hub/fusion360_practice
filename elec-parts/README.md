@@ -9,6 +9,8 @@
    - 直径5mm、2.54mmピッチの砲弾型汎用LED
  - pinSocket_2.54mmp_2x3.f3d
    - 2x3列ピンソケット（2.54mmピッチ）
+ - pinHeader_2.54mmp_1pin_Vertical.f3d
+   - 1x1列ピンヘッダ（2.54mmピッチ）
 
 
 
