@@ -26,6 +26,15 @@ elec-assyディレクトリのデータは、これらの部品単体データ�
    - 可変抵抗ボリューム 2.54mmピッチ 3ピン ノブ高さ13mm
    - [図面](https://www.bourns.com/docs/Product-Datasheets/PTV09.pdf)
    - 全く同じ物の図面が見つからなかったので、採寸して寸法調整した。
-
+ - TO-220_Dgauge_Horizontal.f3d
+   - TO-220 ３端子レギュレータ(7805等) ダブルゲージ(ヒートシンク厚1.2mmタイプ) 横置き
+   - [図面](http://akizukidenshi.com/download/ds/st/l78.pdf)
+ - TO-220_Dgauge_Vertical.f3d
+   - TO-220 ３端子レギュレータ(7805等) ダブルゲージ(ヒートシンク厚1.2mmタイプ) 縦置き
+   - [図面](http://akizukidenshi.com/download/ds/st/l78.pdf)
+ - slide_SPDT.f3d
+   - 基板取付用1回路2接点スイッチ
+   - [図面](http://akizukidenshi.com/download/ds/jianfu/SS-12D00.pdf)
+  
 
 
