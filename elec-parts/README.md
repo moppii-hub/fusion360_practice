@@ -35,6 +35,12 @@ elec-assyディレクトリのデータは、これらの部品単体データ�
  - slide_SPDT.f3d
    - 基板取付用1回路2接点スイッチ
    - [図面](http://akizukidenshi.com/download/ds/jianfu/SS-12D00.pdf)
+ - FootSW_DPDT.f3d
+   - DPDTフットスイッチ
+   - 図面なし（実物を採寸。メーカ不詳）
+ - ArduinoProMicro_Pinless.f3d
+   - 中華製Arduino Pro Microコピー品、ピン未実装品
+   - 図面なし（実物を採寸）
   
 
 
